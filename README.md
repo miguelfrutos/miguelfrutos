@@ -2,14 +2,18 @@
 
 <p>Welcome to my page! </br> I'm Miguel, <b>Data Scientist and Tennis Passionate</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> Madrid, Spain. </p>
 
-- 🌱 I’m currently learning everything about AI, at least trying hard 🤣.
-- 👯 I’m looking to collaborate on COOL Data Science projects with Social Impact.
-- 👨‍💻 Read more about some exciting projects at [MyPortfolio](https://miguelfrutos.github.io/portfolio/)
-- 🥅 2022 Goals: Become an amateur Content Creator, Start a Side Hustle & Copy Rafa´s strenght and Federer style.
-- ⚡ Fun fact: ...
+As a Data Scientist, I feel privileged to solve the most intellectually stimulating and impactful problems. By being data-driven to the max, I´ve been able to turn complex ideas into creative business solutions in unique scenarios. 
 
-<h3> Stack of things I code with</h3>
-<p>
+Besides that, I consider that the attribute that stands out in my skillset is the ability to translate and communicate effectively, essential to unchained a strong bias for action and to collaborate with different business units to frame and tackle a problem, both technically and within a business context.
+
+- 🌱 I’m currently learning everything about AI, at least trying hard 🤣.
+- 👯 I’m looking to collaborate on **COOL** Data Science projects with Social Impact and run novel Data Science Experiments.
+- 👨‍💻 Read more about some exciting projects at [MyPortfolio](https://miguelfrutos.github.io/portfolio/)
+- 🌚 100% fan of having a good sense of humor.
+- 🥅 2022 Goals: Become an amateur Content Creator, Start a Side Hustle & Copy Rafa´s strenght and Federer style.
+- ⚡ Fun fact: I´ve once tried break dance 💃... I'm not cut out for it.
+
+<h3> Stack of things I code with</h3><p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
