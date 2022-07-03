@@ -4,7 +4,7 @@
 
 As a Data Scientist, I feel privileged to solve the most intellectually stimulating and impactful problems. By being data-driven to the max, I´ve been able to turn complex ideas into creative business solutions in unique scenarios. 
 
-Besides that, I consider that the attribute that stands out in my skillset is the ability to translate and communicate effectively, essential to unchained a strong bias for action and to collaborate with different business units to frame and tackle a problem, both technically and within a business context.
+Besides that, I consider that the attribute that stands out in my skillset is the ability to translate and communicate effectively, essential to unchained a strong momentum for action and to collaborate with different business units to frame and tackle a problem, both technically and within a business context.
 
 - 🌱 I’m currently learning everything about AI, at least trying hard 🤣.
 - 👯 I’m looking to collaborate on **COOL** Data Science projects with Social Impact and run novel Data Science Experiments.
