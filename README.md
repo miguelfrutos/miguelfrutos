@@ -8,7 +8,7 @@ Besides that, I consider that the attribute that stands out in my skillset is th
 
 - 🌱 I’m currently learning everything about AI, at least trying hard 🤣.
 - 👯 I’m looking to collaborate on **COOL** Data Science projects with Social Impact and run novel Data Science Experiments.
-- 👨‍💻 Read more about some exciting projects at [MyPortfolio](https://miguelfrutos.github.io/portfolio/)
+- 👨‍💻 Read more about some exciting projects at [MyPortfolio](https://miguelfrutos.github.io/)
 - 🌚 100% fan of having a good sense of humor.
 - 🥅 2022 Goals: Become an amateur Content Creator, Start a Side Hustle & Copy Rafa´s strenght and Federer style.
 - ⚡ Fun fact: I´ve once tried break dance 💃... I'm not cut out for it.
