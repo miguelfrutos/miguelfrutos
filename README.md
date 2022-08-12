@@ -43,7 +43,7 @@ Besides that, I consider that the attribute that stands out in my skillset is th
 <a href="https://github.com/miguelfrutos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/miguelfrutos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://medium.com/@miguel.frutos" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://miguelfrutos.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F50057?&style=for-the-badge&logo=ProtonDB&logoColor=white" /></a>
+<a href="https://miguelfrutos.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F50057?&style=for-the-badge&logo=ProtonDB&logoColor=white" /></a>
 </p>
 
 ### 📕 Latest Books read
