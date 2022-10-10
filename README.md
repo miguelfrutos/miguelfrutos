@@ -51,5 +51,6 @@ Besides that, I consider that the attribute that stands out in my skillset is th
 - [An Introduction to Statistical Learning](https://amzn.to/3nDfUBQ). James-Witten-Hastie-Tibshirani
 - [The Kaggle Book](https://amzn.to/3nDfUBQ). Konrad Banachewicz & Luca Massaron
 - [AI Superpowers](https://amzn.to/3a7LGDW). Kai-fu Lee
+- [Design Machine Learning Systems](https://www.amazon.es/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?keywords=designing+machine+learning+systems&qid=1665047347&qu=eyJxc2MiOiIxLjA2IiwicXNhIjoiMC4zOSIsInFzcCI6IjAuMzkifQ%3D%3D&sprefix=designing+machin%2Caps%2C127&sr=8-1). Chip Huyen
 
 <h1 align='center'><i>Stay awesome!</i></h1>
